@@ -3414,7 +3414,7 @@ GameObject:
   - component: {fileID: 995617283}
   m_Layer: 0
   m_Name: GamePlayManager
-  m_TagString: Untagged
+  m_TagString: GameController
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3451,7 +3451,7 @@ MonoBehaviour:
   gameStatusManager: {fileID: 458370460}
   goBackToMenuButtonManager: {fileID: 0}
   tableDisplayTop: {fileID: 1563114840}
-  TableDisplayMiddle: {fileID: 1167305743}
+  tableDisplayMiddle: {fileID: 1167305743}
   tableDisplayBottom: {fileID: 688926577}
   tempCard1: {fileID: 1653054750}
   tempCard2: {fileID: 254418707}
