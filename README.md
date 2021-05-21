@@ -15,6 +15,6 @@ Resources:
 - https://gamedevbeginner.com/coroutines-in-unity-when-and-how-to-use-them/ -> I used this for some help on how to use Coroutines.
 - https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html -> I used this to review on how to manage my scenes.
 - https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=net-5.0 -> I used this to help format my Game Timer.
-- https://docs.unity3d.com/ScriptReference/Mathf.FloorToInt.html -> I used this to help me round out my Game Timer.
+- https://docs.unity3d.com/ScriptReference/Mathf.Floor.html -> I used this to help me round out my Game Timer.
 
 Build Instructions: The Game Build is in SlapOrElse.zip. Please use to play the game. Note that I am on a Mac, and it may be best to run the game on a Mac.
